@@ -25,9 +25,7 @@ CLICK [DOWNLOAD](https://github.com/Kamrulofficial/WUM/raw/main/Windows%20Update
 
 
 
+<br>
 
 
-
-*
-
-script copyright form [CyberSpace](https://cyberspace.world/windows-update-manager/)
+* script copyright form [CyberSpace](https://cyberspace.world/windows-update-manager/)
